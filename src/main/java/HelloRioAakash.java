@@ -6,6 +6,6 @@ public class HelloRioAakash {
 	}
 	//from  b1 branch 
 	public void m1() {
-			System.out.println("from method-1");// from c1 branch code changes 
+			System.out.println("from method-1");// from c1 branch 
 	}
 }
